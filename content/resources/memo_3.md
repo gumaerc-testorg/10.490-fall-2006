@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Memo on the following topics: analysis of kinetic experiments for reaction
   1, reaction Ia and reaction Ib.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-490-integrated-chemical-engineering-i-fall-2006/9bf41cdd927be9a61c6e0aa723fd0799_memo_3.pdf
+file: /media/courses/10-490-integrated-chemical-engineering-i-fall-2006/9bf41cdd927be9a61c6e0aa723fd0799_memo_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: memo_3.pdf
 uid: 9bf41cdd-927b-e9a6-1c6e-0aa723fd0799

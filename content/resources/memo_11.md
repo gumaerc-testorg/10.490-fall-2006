@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Memo on the following topics: base case process simulation, base case
   economic analysis, optimized process and safety and environmental analysis'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-490-integrated-chemical-engineering-i-fall-2006/bcf8ad0aeb2a66d7eb66dcb46ad68e03_memo_11.pdf
+file: /media/courses/10-490-integrated-chemical-engineering-i-fall-2006/bcf8ad0aeb2a66d7eb66dcb46ad68e03_memo_11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: memo_11.pdf
 uid: bcf8ad0a-eb2a-66d7-eb66-dcb46ad68e03
