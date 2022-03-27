@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab636875-e47a-e36a-d0f1-0d9d1741e5cc
 resourcetype: Document
 title: depend_tree_hw2.pdf
 uid: 63388b6d-da6f-0be7-308b-8bdcdf037a5e

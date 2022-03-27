@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: de8ff7b0-7170-f001-c4dc-ebe8421ae5af
 resourcetype: Document
 title: memo_7_appendix.pdf
 uid: 20dcd79f-4dc0-b8fd-0222-cf7c2aed755f

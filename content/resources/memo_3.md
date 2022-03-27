@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: de8ff7b0-7170-f001-c4dc-ebe8421ae5af
 resourcetype: Document
 title: memo_3.pdf
 uid: 9bf41cdd-927b-e9a6-1c6e-0aa723fd0799
