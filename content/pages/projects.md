@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The project section contains supplementary notes for the course text
+  and additional topical notes.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -57,7 +59,7 @@ Project Team Assignments
 
 {{< tdclose >}}
 {{< tdopen >}}
-Memo 1 ([PDF]({{< baseurl >}}/resources/memo_1))
+Memo 1 ({{% resource_link e3bc0074-4b3c-78f0-ebaf-dadf1d397a52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,9 +73,9 @@ Data Request for Reaction Kinetics
 {{< tdopen >}}
 
 
-Memo 2 ([PDF]({{< baseurl >}}/resources/memo_2))
+Memo 2 ({{% resource_link d3def97b-4d5b-6b66-041e-288d800926fa "PDF" %}})
 
-Memo 3 ([PDF]({{< baseurl >}}/resources/memo_3))
+Memo 3 ({{% resource_link 9bf41cdd-927b-e9a6-1c6e-0aa723fd0799 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -99,7 +101,7 @@ L5
 Batch Reactor Modeling
 {{< tdclose >}}
 {{< tdopen >}}
-Memo 4 ([PDF]({{< baseurl >}}/resources/memo_4))
+Memo 4 ({{% resource_link 56c1ffdf-4866-26f7-f7ef-0e9759c31c0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +113,7 @@ L6-L8
 Reactor Model in ABACUSS
 {{< tdclose >}}
 {{< tdopen >}}
-Memo 5 ([PDF]({{< baseurl >}}/resources/memo_5))
+Memo 5 ({{% resource_link da6bfa6d-2496-4086-0451-9defc3e1deee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ L9
 Batch Distillation
 {{< tdclose >}}
 {{< tdopen >}}
-Memo 6 ([PDF]({{< baseurl >}}/resources/memo_6))
+Memo 6 ({{% resource_link 07442267-34e6-928b-b213-a8ae079abe24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,9 +139,9 @@ Vapor-Liquid Equilibrium Models
 {{< tdopen >}}
 
 
-Memo 7 ([PDF]({{< baseurl >}}/resources/memo_7))
+Memo 7 ({{% resource_link 05d1a7dd-8fe3-a4e0-8e44-2b76bcff0a0c "PDF" %}})
 
-Appendix ([PDF]({{< baseurl >}}/resources/memo_7_appendix))
+Appendix ({{% resource_link 20dcd79f-4dc0-b8fd-0222-cf7c2aed755f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -167,9 +169,9 @@ Base Case Simulation
 {{< tdopen >}}
 
 
-Memo 8 ([PDF]({{< baseurl >}}/resources/memo_8))
+Memo 8 ({{% resource_link 14c23059-6b45-cfde-1153-bc532b599396 "PDF" %}})
 
-Memo 9 ([PDF]({{< baseurl >}}/resources/memo_9))
+Memo 9 ({{% resource_link e28b08fd-58e6-b67b-5400-cf793409a178 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -197,9 +199,9 @@ Batch Process Economics
 {{< tdopen >}}
 
 
-Memo 10 ([PDF]({{< baseurl >}}/resources/memo_10))
+Memo 10 ({{% resource_link d30101da-02a4-adc2-3e21-fee427afc3bf "PDF" %}})
 
-Engineering Economics ([PDF]({{< baseurl >}}/resources/eng_econ_lecture))(Courtesy of Kangyi Mao. Used with permission.)
+Engineering Economics ({{% resource_link 98288885-a32c-8a40-5446-0082cb87a426 "PDF" %}})(Courtesy of Kangyi Mao. Used with permission.)
 
 
 {{< tdclose >}}
@@ -220,4 +222,4 @@ Project Work
 
 {{< tableclose >}}
 
-Final Report Guidelines ([PDF]({{< baseurl >}}/resources/memo_11))
+Final Report Guidelines ({{% resource_link bcf8ad0a-eb2a-66d7-eb66-dcb46ad68e03 "PDF" %}})
