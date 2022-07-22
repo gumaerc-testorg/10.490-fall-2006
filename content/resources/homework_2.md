@@ -5,6 +5,7 @@ file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/92c0426a8e2304
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework_2.pdf
 uid: 92c0426a-8e23-0460-6e31-041bc8fed0fe
 ---
 Homework assignment.
-

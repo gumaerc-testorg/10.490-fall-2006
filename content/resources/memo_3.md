@@ -6,6 +6,7 @@ file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/9bf41cdd927be9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: memo_3.pdf
 uid: 9bf41cdd-927b-e9a6-1c6e-0aa723fd0799
 ---
 Memo on the following topics: analysis of kinetic experiments for reaction 1, reaction Ia and reaction Ib.
-

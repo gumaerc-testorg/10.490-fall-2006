@@ -5,6 +5,7 @@ file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/98288885a32c8a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: eng_econ_lecture.pdf
 uid: 98288885-a32c-8a40-5446-0082cb87a426
 ---
 Lecture presentation courtesy of Kangyi Mao. Used with permission.
-

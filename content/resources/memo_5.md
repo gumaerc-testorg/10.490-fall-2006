@@ -6,6 +6,7 @@ file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/da6bfa6d249640
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: memo_5.pdf
 uid: da6bfa6d-2496-4086-0451-9defc3e1deee
 ---
 Memo on the following topics: instructions for using ABACUSS II and simulation.
-

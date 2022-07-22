@@ -6,6 +6,7 @@ file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/d30101da02a4ad
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: memo_10.pdf
 uid: d30101da-02a4-adc2-3e21-fee427afc3bf
 ---
 Memo on the following topics: economic analysis, lucretex batch process development project description and goals and simulated distillation.
-
