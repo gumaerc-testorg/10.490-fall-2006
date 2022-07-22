@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus contains information about goals, objectives, description,
+  prerequisites, meeting hours, recommended texts, fix-its, homework, late submission
+  of work, grading, ABACUSS II and calender for this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0a585eb1-6fc3-5b9d-f619-f1865c8d4e04
 ---
