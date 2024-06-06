@@ -3,6 +3,7 @@ content_type: resource
 description: 'Memo on the following topics: kinetic models, organic chemists and molecular
   structure.'
 file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/56c1ffdf486626f7f7ef0e9759c31c0e_memo_4.pdf
+file_size: 112277
 file_type: application/pdf
 learning_resource_types:
 - Projects
