@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Memo on the following topics: instructions for using ABACUSS II and
   simulation.'
-file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/da6bfa6d2496408604519defc3e1deee_memo_5.pdf
+file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/da6bfa6d2496408604519defc3e1deee_memo_5.pdf
 file_size: 42556
 file_type: application/pdf
 learning_resource_types:
