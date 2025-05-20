@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation courtesy of Kangyi Mao. Used with permission.
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/98288885a32c8a4054460082cb87a426_eng_econ_lecture.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/98288885a32c8a4054460082cb87a426_eng_econ_lecture.pdf
 file_size: 95954
 file_type: application/pdf
 learning_resource_types:
