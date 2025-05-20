@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment with questions on binary batch distillation and multicomponent
   distillation with abacuss.
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/a9f102c8e1be0a8f8e16473b324cdfb7_homework_3.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/a9f102c8e1be0a8f8e16473b324cdfb7_homework_3.pdf
 file_size: 30811
 file_type: application/pdf
 learning_resource_types:

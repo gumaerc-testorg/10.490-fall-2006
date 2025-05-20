@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Memo on the following topics: base case process simulation, base case
   economic analysis, optimized process and safety and environmental analysis'
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/bcf8ad0aeb2a66d7eb66dcb46ad68e03_memo_11.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/bcf8ad0aeb2a66d7eb66dcb46ad68e03_memo_11.pdf
 file_size: 102025
 file_type: application/pdf
 learning_resource_types:

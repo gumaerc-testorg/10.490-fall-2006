@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Memo 7 appendix.
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/20dcd79f4dc0b8fd0222cf7c2aed755f_memo_7_appendix.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/20dcd79f4dc0b8fd0222cf7c2aed755f_memo_7_appendix.pdf
 file_size: 80573
 file_type: application/pdf
 learning_resource_types:

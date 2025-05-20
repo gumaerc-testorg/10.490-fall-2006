@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Memo on the following topics: ''lucretex batch process development project
   description and goals, pilot plant run, pilot plant equipment schematic.'
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/e3bc00744b3c78f0ebafdadf1d397a52_memo_1.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/e3bc00744b3c78f0ebafdadf1d397a52_memo_1.pdf
 file_size: 86719
 file_type: application/pdf
 learning_resource_types:

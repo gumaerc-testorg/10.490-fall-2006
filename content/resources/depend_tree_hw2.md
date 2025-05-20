@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains the Reactor Model Dependency Tree needed for Assignment
   2.
-file: /ol-ocw-studio-app/courses/10-490-integrated-chemical-engineering-i-fall-2006/63388b6dda6f0be7308b8bdcdf037a5e_depend_tree_hw2.pdf
+file: /courses/10-490-integrated-chemical-engineering-i-fall-2006/63388b6dda6f0be7308b8bdcdf037a5e_depend_tree_hw2.pdf
 file_size: 23347
 file_type: application/pdf
 learning_resource_types:
